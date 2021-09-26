@@ -4,7 +4,7 @@ In this Project using python.
 I create a menu for performing some services like:
 * basic command of windows
 * Kubernetes service
-* OTT paltform 
+* OTT platform
 * Social media
 * AWS Services
 
