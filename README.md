@@ -1,7 +1,7 @@
 # Voice-control-menu-using-python
 
 In this Project using python. 
-I create a menu for prforming some srevices like:
+I create a menu for performing some services like:
 * basic command of windows
 * Kubernetes service
 * OTT paltform 
